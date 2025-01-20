@@ -183,4 +183,4 @@ roc_auc_score(y_val_b, logistic_model_b.predict(x_val_b)), roc_auc_score(y_val_b
 # It has the highest AUC score and the best precision and recall for fraud detection. 
 # The random forest model is the second best model for this dataset. 
 # The logistic regression model is the worst model for this dataset. 
-# The gradient boosting model and the linear support vector machine model are in the middle.
+# The gradient boosting model and the linear support vector machine model perform about the same and lie in the middle.
